@@ -5,7 +5,6 @@
       :mini-variant="miniVariant"
       :clipped="clipped"
       v-model="drawer"
-      enable-resize-watcher
       fixed
       app
     >
